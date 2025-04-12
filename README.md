@@ -61,3 +61,13 @@ Key Features: Randomized Question & Option Order: Each session feels new.
     Restart Option: Encourages replayability and learning.
 
 Conclusion: The Interactive Quiz Application is a clean, responsive, and effective tool built entirely with front-end technologies. It’s ideal for self-assessment, educational websites, or as a learning project for JavaScript beginners. The structure allows for easy customization and future enhancements, such as category selection, high-score tracking, or integration with databases for user analytics.
+
+
+
+
+
+
+OUTPUT: 
+
+
+![Image](https://github.com/user-attachments/assets/166350c5-36ca-4046-95d6-2ad44f1cd4a3)
